@@ -10,3 +10,11 @@ As you notice when you open the file. A song is already uploaded. I did that so 
 
 Any help would be amazing. 
 Thank you
+
+
+P.S. I'm new to github, but i don't know how to create a folder. 
+Before you start messing with the code. Make four folders with the following names, audio, img, js, css.
+Place all files that are suppose to be in those folders I.E. JavaScript > js folder, MP3 WAV > audio folder, etc. 
+That way, when you look at the index file on your web browser, everything would be there. 
+
+Thanks! 
